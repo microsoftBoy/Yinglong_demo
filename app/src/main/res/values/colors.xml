@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_two_a">#2a2a2a</color>
+    <color name="color_two_e">#2e2e2e</color>
+    <color name="color_gray_cthree">#c3c3c3</color>
+    <color name="color_back_six">#666666</color>
+    <color name="color_back_azero">#a0a0a0</color>
+    <color name="color_af">#afafaf</color>
+    <color name="color_adadad">#adadad</color>
+    <color name="color_include_title">#2d2d2d</color>
+    <color name="color_bthree_bthree">#b3b3b3</color>
+    <color name="color_ezero">#e0e0e0</color>
+    <color name="gray">#888888</color>
+    <color name="color_menu_fivee">#5e5e5e</color>
+    <color name="color_menu_six">#e6e6e6</color>
+    <color name="color_menu_five_six">#565656</color>
+    <color name="color_menu_fiveesix">#585858</color>
+    <color name="color_six_five">#686868</color>
+    <color name="color_five">#888888</color>
+    <color name="color_menu_fiveezero">#505050</color>
+    <color name="color_seventy_one">#717171</color>
+    <color name="color_seventy_nine">#797979</color>
+    <color name="color_nine_three">#939393</color>
+    <color name="color_d_nine">#d9d9d9</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="half_white">#aeffffff</color>
+    <color name="black">#000000</color>
+    <color name="appbags">#0c6e3c</color>
+    <color name="yellow">#ffc000</color>
+    <color name="tv_click">#0b0e24</color>
+    <color name="tv">#a0a0a0</color>
+    <color name="bg_color">#f3f4f6</color>
+    <color name="m_txt_color">#f297e4</color>
+    <color name="line_color">#e5e5e5</color>
+    <color name="txt_color">#4e505c</color>
+    <color name="transparent_black">#4D000000</color>
+    <color name="uncompleted_color">#A3E0D9</color>
+    <color name="uncompleted_text_color">#F8F8F8</color>
+    <color name="toolbar_color">#333333</color>
+    <color name="red_color">#ff2927</color>
+    <color name="line_h_color">#ccb293</color>
+    <color name="default_bg_color">#f8f8f8</color>
+    <color name="transparent">#00000000</color>
+    <color name="bag_fa003f">#fa003f</color>
+    <color name="inv_color">#0D4121</color>
+    <color name="inv_inner_color">#339b5b</color>
+    <color name="text_gray">#bdbdbd</color>
+    <color name="shield_color">#f3f3f3</color>
+    <color name="linecolor">#e2e2e2</color>
+    <color name="strokeColor">#dddddd</color>              <!-- 按钮的描边色 -->
+
+    <color name="colorPrimaryfeedback">#ff17A1E5</color>
+    <color name="colorblack">#ff000000</color>
+    <color name="global_background">#F0F3F5</color>
+    <color name="split_line_color_gray">#E1E4E5</color>
+    <color name="split_line_color">#E1E4E5</color>
+    <color name="split_line_color_pink">#ff00ff</color>
+    <color name="dialog_negative_color">#666666</color>
+    <color name="inactive_button_color">#7EC3E5</color>
+    <color name="sign_in_color_text">#333333</color>
+    <color name="title_text_color">#333333</color>
+    <color name="text_color_406080">#406080</color>
+    <color name="search_no_result_text_color">#999999</color>
+    <color name="transparent_white">#00ffffff</color>
+    <color name="assist_text_color">#C0C2C4</color>
+    <color name="chat_input_bg">#E6E9EBF0</color>
+    <color name="stamp_background_color">#D4D7D9</color>
+    <color name="white_text_color">#FFFFFF</color>
+    <color name="text_color_black_17181A">#17181A</color>
+    <color name="assist_text_color_black_17181A_50">#8017181A</color>
+    <color name="rare_assist_text_color_black_17181A_30">#4C17181A</color>
+    <color name="black_17181A_40">#6617181A</color>
+    <color name="black_17181A_50">#8017181A</color>
+    <color name="black_17181A_100">#17181A</color>
+    <color name="black_17181A_60">#9917181A</color>
+    <color name="black_333333_50">#80333333</color>
+    <color name="black_16171A_50">#7f16171A</color>
+    <color name="black_16171A_40">#6617181A</color>
+    <color name="black_16171A_70">#B217181A</color>
+    <color name="black_16171A_30">#4c17181A</color>
+
+    <color name="dialog_title_text_color">#17A1E6</color>
+    <color name="send_button_color">#17A1E6</color>
+    <color name="send_button_color_enable">#8017A1E6</color>
+    <color name="send_button_color_link">#17A1E6</color>
+    <color name="sent_offer_count_text_color">#399ee6</color>
+
+    <color name="gray_normal">#666667</color>
+    <color name="emojicon_tab_selected">#D9D9D9</color>
+    <color name="emojicon_tab_nomal">#ffffff</color>
+
+    <color name="button_blue">#07d6e9</color>
+    <color name="premium_free_bg">#6E7F8A</color>
+
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="holo_black">#00000000</color>
+    <color name="black_222627">#222627</color>
+    <color name="gray_69">#999999</color>
+
+    <color name="layout_list_operation_delete_bg">#E64545</color>
+    <color name="layout_list_operation_copy_bg">#C8C7CD</color>
+    <color name="layout_list_operation_share_bg">#17A1E6</color>
+    <color name="layout_list_operation_edit_bg">#17A1E6</color>
+
+    <color name="feedback_text_color_in_active">#2E3033</color>
+
+
+    <color name="chat_primary_menu_bg">#e6e9ebf0</color>
+
+    <color name="white_f2f3f5">#F2F3F5</color>
+    <color name="background_toolbar">#FCFCFC</color>
+    <color name="color_ffffff">#FFFFFF</color>
+    <color name="translucence_background_50">#AA000000</color>
+    <color name="translucence_background_20">#33000000</color>
+    <color name="translucence_background_85">#D9000000</color>
+    <color name="translucence_background_70">#B2000000</color>
+    <color name="translucence_white_50">#F0FFFFFF</color>
+    <color name="sign_in_bg">#F2F4F5</color>
+    <color name="edit_text_hint_color">#C0C3C4</color>
+    <color name="color_c0c2c4">#C0C2C4</color>
+    <color name="second_title_text_color">#A5A7A8</color>
+    <color name="sign_in_bg_pressed">#b5b8b9</color>
+    <color name="sign_in_color_hint">#C0C3C4</color>
+    <color name="feedback_bg_ffcoc3c4">#ffC0C3C4</color>
+    <color name="offer_list_copy_color">#898B8C</color>
+    <color name="offer_price_text_color">#7d7f80</color>
+    <color name="button_enabled_color">#A5A7A8</color>
+    <color name="link_phone_tabbackground_stroke">#1179ad</color>
+    <color name="link_phone_tabbackground_stroke_six">#981179ad</color>
+    <color name="black_textview">#575757</color>
+    <color name="group_list_black_textview">#353535</color>
+    <color name="group_list_gray">#999999</color>
+    <color name="group_list_liner">#e4e4e4</color>
+    <color name="main_title_backgroud">#F2F2F2</color>
+    <color name="main_regist">#ffffff</color>
+    <color name="button_backgroud">#0195ff</color>
+    <color name="de_title_bg">#0195ff</color>
+    <color name="seal_bg">#f0f0f6</color>
+
+    <color name="rc_text_color_secondary_inverse">@android:color/white</color>
+
+    <!--actionbar-->
+    <color name="de_actionbar_bg">#0195ff</color>
+    <!---->
+    <color name="de_action_color">#3498DB</color>
+    <color name="de_action_white">@android:color/white</color>
+    <color name="de_transparent">#00000000</color>
+
+    <color name="de_draft_color">#cb120f</color>
+    <color name="main_theme_color">#0195ff</color>
+
+    <color name="press">#e8e8e8</color>
+
+    <color name="text_line_color">#dfdfdd</color>
+    <color name="text_black_color">#333333</color>
+    <color name="text_tips_color">#666666</color>
+    <color name="mine_head_color">#cccccc</color>
+    <color name="text_color">#353535</color>
+
+    <!--SWITCH-->
+    <color name="ksw_md_ripple_normal">#1E000000</color>
+    <color name="ksw_md_solid_shadow">#33000000</color>
+    <color name="ksw_md_solid_normal">#ECECEC</color>
+    <color name="ksw_md_solid_disable">#FFFFFF</color>
+    <color name="ksw_md_solid_checked_disable">#aaaaaa</color>
+
+    <color name="ac_filter_string_color">#0099ff</color>
+    <color name="divider">#d9d9d9</color>
+    <color name="ease_sidebar_color_country">#4bb3e9</color>
+    <color name="text_color_333333_50">#7e333333</color>
+    <color name="color_e64545">#e64545</color>
+    <color name="color_16171a">#16171a</color>
+    <color name="color_17a1e6">#17a1e6</color>
+    <color name="color_black_16171A_50">#8016171A</color>
+    <color name="color_black_16171A_30">#4C16171A</color>
+    <color name="color_blue_1793e5">#1793e5</color>
+    <color name="color_black_dialog_text">#030303</color>
+    <color name="color_black_dialog_interval_line">#BFBFBF</color>
+    <color name="color_2b2b2b">#2B2B2B</color>
+    <color name="color_747474">#747474 </color>
+    <color name="color_7E7E7E">#7E7E7E </color>
+    <color name="color_C2C2C2">#C2C2C2 </color>
+    <color name="color_848484">#848484 </color>
+    <color name="color_D8D8D8">#D8D8D8 </color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="color_777777">#777777 </color>
+    <color name="color_33ffffff">#33ffffff </color>
+    <color name="color_FC7CAF">#FC7CAF </color>
+</resources>
